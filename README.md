@@ -10,11 +10,12 @@ Projet d'imprimante 3D DIY avec une électronique RAMPS 1.4 et un firmware Marli
 
 ## Photos
 
-![Imprimante 3D - vue 1](images/printer-1.jpg)
-![Imprimante 3D - vue 2](images/printer-2.jpg)
-![Câblage RAMPS](images/ramps-wiring.jpg)
-![Schéma électrique](images/electrical-diagram.png)
+![Imprimante 3D - Conception 3D](images/Conception 3D.jpeg)
+![Imprimante 3D - En Réalité](images/Image Réel.png)
+![Schéma électrique](images/Partie Electrique.png)
+![Câblage RAMPS](images/Ramps Board.png)
+![Pièces](images/Pièces.png)
 
 ## Démo
 
-[lien vidéo à ajouter]
+![Vidéo Démo](images/3D Printer.mp4)
