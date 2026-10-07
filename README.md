@@ -22,4 +22,4 @@ Projet d'imprimante 3D DIY avec une électronique RAMPS 1.4 et un firmware Marli
 
 ## Démo
 
-▶️ [Voir la vidéo de démonstration](video/demo.mp4)
+▶️ [Voir la vidéo de démonstration](https://drive.google.com/file/d/1q0g3eHCgH6WlDqpTsx9fM7y9ZYR9P-b7/view?usp=sharing)
